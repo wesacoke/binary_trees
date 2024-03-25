@@ -9,9 +9,15 @@ A binary tree is a hierarchical data structure composed of nodes, where each nod
 ### Features
 
 Simple Implementation: Includes straightforward implementations of binary trees in various programming languages.
+
 Traversal Algorithms: Demonstrates different traversal algorithms like inorder, preorder, and postorder traversal.
+
 Balanced Trees: Discusses balanced binary trees such as AVL trees and Red-Black trees.
+
 Applications: Highlights practical applications of binary trees, such as expression trees and binary search trees (BSTs).
+
 Visualization: Provides tools and resources for visualizing binary trees to aid in understanding.
+
 Performance Analysis: Analyzes the time and space complexity of common binary tree operations.
+
 Examples and Exercises: Offers coding examples and exercises to reinforce learning.
